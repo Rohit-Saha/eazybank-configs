@@ -1,0 +1,17 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related local APIs"
+  contactDetails:
+    name: "Rohit Saha - Developer"
+    email: "rohit.saha@example.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1235
+
+customers:
+  message: "Welcome to Customer Helpdesk"
+  contactDetails:
+    email: "xyz@xyz.com"
+    phone: "(555) 345-1243"

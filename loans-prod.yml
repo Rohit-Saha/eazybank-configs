@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank loans related Prod APIs"
+  contactDetails:
+    name: "Amit Trivedi - Prod"
+    email: "amit.trivedi@example.com"
+  onCallSupport:
+    - (755) 555-1234
+    - (755) 523-1235
