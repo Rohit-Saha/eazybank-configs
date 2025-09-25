@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank cards related Production APIs from Config Server Git location"
+  message: "Welcome to EazyBank cards related Production APIs from Config Server Git location using webhook"
   contactDetails:
     name: "Amit Trivedi - Prod"
     email: "amit.trivedi@example.com"
