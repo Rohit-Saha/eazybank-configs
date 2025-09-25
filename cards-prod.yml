@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank cards related Prod APIs"
+  message: "Welcome to EazyBank cards related Prod APIs from Github"
   contactDetails:
     name: "Amit Trivedi - Prod"
     email: "amit.trivedi@example.com"
