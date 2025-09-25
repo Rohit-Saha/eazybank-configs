@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related Prod APIs from Config Server File location"
+  message: "Welcome to EazyBank accounts related Prod APIs from Config Server Git location"
   contactDetails:
     name: "Amit Trivedi - Prod"
     email: "amit.trivedi@example.com"
