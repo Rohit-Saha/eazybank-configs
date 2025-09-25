@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related Production APIs from Config Server Git location which are refereshed dynamically during runtime"
+  message: "Welcome to EazyBank accounts related Production APIs from Config Server Git location"
   contactDetails:
     name: "Amit Trivedi - Prod"
     email: "{cipher}2ddc2162431954e20f74a10c1713ee5c4fdd9986ee7ffeb77ab1aea45b533b94d4fd5d0380e21f1cd6d333e6e4daae58"
